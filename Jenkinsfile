@@ -2,10 +2,10 @@ pipeline {
     agent any
 
     environment {
-        DOCKER_USER = "satyanarayan4434"
-        CLIENT_IMAGE = "satyanarayan4434/jenkins-client"
-        SERVER_IMAGE = "satyanarayan4434/jenkins-server"
-        EC2_IP = "13.200.18.141"
+        DOCKER_USER = "mrkalapala7"
+        CLIENT_IMAGE = "mrkalapala7/jenkins-client"
+        SERVER_IMAGE = "mrkalapala7/jenkins-server"
+        EC2_IP = "3.15.151.186"
     }
 
     stages {
