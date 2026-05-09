@@ -5,7 +5,7 @@ pipeline {
         DOCKER_USER = "mrkalapala7"
         CLIENT_IMAGE = "mrkalapala7/jenkins-client"
         SERVER_IMAGE = "mrkalapala7/jenkins-server"
-        EC2_IP = "3.15.151.186"
+        EC2_IP = "3.16.75.242"
     }
 
     stages {
