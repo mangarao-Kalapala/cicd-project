@@ -32,7 +32,7 @@ function App() {
   return (
     <div style={{ textAlign: "center", marginTop: "50px" }}>
       <h1>Jenkins Full Stack Project Pipeline</h1>
-      <h1>- By Manga Rao Kalapala</h1>
+      <h1>- By MangaRao Kalapala</h1>
 
       <button onClick={checkConnection} style={btnStyle}>
         Check Backend Connection
